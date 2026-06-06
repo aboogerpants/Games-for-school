@@ -1,0 +1,25 @@
+How To Use
+1. Download the Files
+
+First, download all of the files included in the package.
+After everything is downloaded, open your Files app and make sure all of the files stay inside the same folder.
+
+2. Download the Game Hub Folder
+
+Hover your mouse over the Game Hub folder (the folder inside the main download).
+You will see a small download arrow pointing downward. Click the arrow and wait a few seconds for the download to finish.
+
+3. Open the Game Hub
+
+Once the download is complete, open the file called:
+
+gaming-hub-nexus-made-by-AJL.html
+
+This file is the main hub that lets you launch and play all of the games.
+
+4. Important
+
+Do not move the other files out of the folder.
+The Game Hub uses those files to run the games correctly, so everything must stay together in the same folder.
+
+Made By: AJL
